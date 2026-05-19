@@ -121,3 +121,20 @@ Online-Medicine-Delivery-System/
 ```
 
 ---
+
+# Learning Outcomes
+
+This project helped in understanding:
+- Real-world application design
+- OOP implementation in Python
+- Managing relationships between entities
+- Problem-solving using programming
+
+---
+
+# Author
+
+**Saitej**
+
+Computer Science Engineering Student  
+Passionate about AI,machine learning, and Problem Solving
